@@ -1,4 +1,4 @@
-# BYOM-FINE
+# AI Cultural Arts UnitedS
 *** BYOM Readme *** 
 
 This example demonstrates the optimization, deployment, and inference process of the BYOM (Bring Your Own Model) model. Three models are included:
